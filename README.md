@@ -5,8 +5,7 @@
 
 ### Glad to see you here!
 
-I am a data scientist/data analyst. I love how the data could be useful and solve problems, as the famous phrase says: Data has a better idea.
-
+I am a lover of the data science field. I love how the data could be useful and solve problems, as the famous phrase says: Data has a better idea.
 
 **Talking about Personal Stuffs:**
 
