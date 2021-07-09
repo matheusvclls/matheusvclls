@@ -12,8 +12,9 @@ I am a lover of the data science field. I love how the data could be useful and 
 - 👨🏻‍ I’m currently working on something cool;
 - 🚀 I’m currently learning all about the world of data, which includes data engineering, analyst and ML models;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I'm trying to writing regularly articles on [medium](https://medium.com/@matheusvclls); and
-- 📫 How to reach me: matheusvclls97@gmail.com.
+- 📝 I'm trying to writing regularly articles on [medium](https://medium.com/@matheusvclls);
+- 📫 How to reach me: matheusvclls97@gmail.com; and
+- ⚡ Fun fact: run 🏃🏻‍♂️ is my passion.
 
 
 
