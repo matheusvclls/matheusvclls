@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lins-vasconcellos/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@matheusvclls)
+
+
 <!--
 **matheusvclls/matheusvclls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
