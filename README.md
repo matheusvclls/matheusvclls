@@ -3,19 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lins-vasconcellos/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@matheusvclls)
 
-### Glad to see you here!
-
-I am a lover of the data science field. I love how the data could be useful and solve problems, as the famous phrase says: Data has a better idea.
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍ I’m currently working on something cool;
-- 🚀 I’m currently learning all about the world of data, which includes data engineering, analyst and ML models;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I'm trying to writing regularly articles on [medium](https://medium.com/@matheusvclls);
-- 📫 How to reach me: matheusvclls97@gmail.com; and
-- ⚡ Fun fact: run 🏃🏻‍♂️ is my passion.
-
+I am a Brazilian-based Data Engineer with 7 years working with data and programming. I have extensive experience designing end-to-end solutions from talking with business areas, designing the architecture, building ETL pipelines, algorithms, databases until drawing the dashboards. I currently work as a data engineer at a fintech company.
 
 
 <!--
